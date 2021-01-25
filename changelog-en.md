@@ -10,7 +10,7 @@
 - the LOGA-Export now uses the field "Additional salary property" for the contract number
 
 ### Bugfixes
-- die Zuverlässigkeit zeitgesteuerter Aktionen wurde erhöht
+- the reliability of time-based actions was increased
 
 
 ## Mobile
