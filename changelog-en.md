@@ -1,3 +1,6 @@
+# 6.1.5
+## Allgemein
+- Mobility types are now correctly assigned to private / commute trips in the expense checking view
 
 # 6.1.4
 
