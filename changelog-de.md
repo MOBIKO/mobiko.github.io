@@ -1,3 +1,7 @@
+# 6.1.5
+## Allgemein
+### Bugfixes
+- Mobilitätstypen werden nun im Bereich Belegprüfung / Expense Checking korrekt Privat- und Firmenfahrten zugeordnet
 
 # 6.1.4
 
