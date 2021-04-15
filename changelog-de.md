@@ -1,3 +1,8 @@
+# 6.2.3
+### Features
+- MOBIKO unterstützt nun [VEDA](https://www.veda.net/software/veda-hr-entgelt/) als Lohnbuchhaltungssystem
+- DATEV LODAS und DATEV Lohn und Gehalt unterstützen nun die Erstattung via Nachberechnungsfunktion
+
 # 6.1.5
 ## Allgemein
 ### Bugfixes

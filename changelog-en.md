@@ -1,3 +1,8 @@
+# 6.2.3
+### Features
+- MOBIKO now supports [VEDA](https://www.veda.net/software/veda-hr-entgelt/) as target payroll system
+- "DATEV LODAS" and "DATEV Lohn und Gehalt" are now supporting the recalculation functionality
+
 # 6.1.5
 ## Allgemein
 - Mobility types are now correctly assigned to private / commute trips in the expense checking view
