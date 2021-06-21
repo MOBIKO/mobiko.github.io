@@ -79,6 +79,7 @@ Die Versionsnummer orientiert sich nun an dem monatlichen Release-Zyklus (z.B. 2
 
 ## Bugfixes
 - alle Umrechnungskurse kommen nun direkt von der europäischen Zentralbank
+
 # 6.2.3
 ## Features
 - MOBIKO unterstützt nun [VEDA](https://www.veda.net/software/veda-hr-entgelt/) als Lohnbuchhaltungssystem
