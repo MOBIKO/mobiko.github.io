@@ -1,3 +1,42 @@
+# 2021.6
+## Features
+### Allgemein
+ _______          __     
+|  __ \ \        / /\    
+| |__) \ \  /\  / /  \   
+|  ___/ \ \/  \/ / /\ \  
+| |      \  /\  / ____ \ 
+|_|       \/  \/_/    \_\
+- Unsere neue Progressive Web App ist jetzt für alle Kunden verfügbar
+- Alle Mailtemplates enthalten nun die Links auf unsere Progressive Web App
+- MOBIKO unterstützt nun auch Spanien und Portugal als Zielländer mit Individualversteuerung
+
+### Externe Benefits:
+- "Tankkarte" ist als externer Benefit hinzugefügt worden
+
+### Progressive Web App (PWA) vs. Native App
+- Währungen, Sprachen und Zeitzonen sind nun per Textsuche auffindbar
+- Die Bildvorschau kann nun auf Originalgröße vergrößert werden (double-tap)
+- Die Optik und Usability der "Gutscheine und Vorteile" wurde verbessert
+
+## Bugfixes
+### Allgemein
+- Budgetgruppen in der Useransicht werden nun nach Betrag sortiert
+- das Datumsformat entspricht nun der Sprache des Users
+- Exporte duplizieren nun keine Zeilen mehr, wenn Exporte mehrfach schnell hintereinander ausgelöst werden
+- die "Externe Benefit"-Berechnung für vergangene Monate berücksichtigt nun die Historie
+- in den Benutzerdetails kann man nun wieder Informationen in die Zwischenablage kopieren
+- in den Benutzerdetails wird die Externer Benefit Beschreibung nun nur noch einmal angezeigt
+- in der Belegprüfung wurde eine fehlende Lokalisierung ergänzt
+- man kann nun wieder Administratoren über die Benutzerverwaltung anlegen
+- man kann nun wieder User in der Zukunft einladen
+
+
+## Änderungen
+### Allgemein:
+- "Geplant"-Tabs in der Useransicht werden nun der Übersichtlichkeit halber ausgeblendet, wenn sie keine Einträge haben
+- Wenn Einladungen / Deaktivierungen / Reaktivierungen geplant werden, scrollt die Ansicht der Einfachheit halber nun automatisch zum Ende der Seite
+
 # 2021.5
 ## Hinweis
 Die Versionsnummer orientiert sich nun an dem monatlichen Release-Zyklus (z.B. 2021.5 für Mai 2021)

@@ -1,3 +1,36 @@
+# 2021.6
+## Features
+### General
+ _______          __     
+|  __ \ \        / /\    
+| |__) \ \  /\  / /  \   
+|  ___/ \ \/  \/ / /\ \  
+| |      \  /\  / ____ \ 
+|_|       \/  \/_/    \_\
+- our new Progressive Web App is now available for all customers
+- all mail templates now contain the links to our Progressive Web App
+- MOBIKO now supports Spain and Portugal as target countries with individual taxation
+
+### Externe Benefits:
+- "Fuel Card" was added as external benefit type
+
+### Progressive Web App (PWA) vs. Native App
+- Currencies, languages and timezones are now searchable via text search
+- the picture preview can now be extended to original picture size (double tap)
+- the user interface and usability of "Deals and Vouchers" was improved
+
+## Bugfixes
+### General
+- Budget groups in the user view are now sorted by amount
+- the date format is now respecting the users language
+- Exports no longer duplicate lines, when they are executed multiple times while they are in progress
+- the "External Benefit"-calculation now respects the history of previous months
+- it's now possible again to copy information from the user details dialog
+- the "External Benefit" description is now only shown once in the user view
+- a missing localization was added into the expense checking view
+- Administrators can now be created again via user management
+- users can now be scheduled for invitation again
+
 # 2021.5
 ## Please note
 The version number now reflects monthly releases (e.g. 2021.5 is for May 2021)
