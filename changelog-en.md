@@ -1,7 +1,7 @@
 # 2021.6
 ## Features
 ### General
-![PWA Logo](./img/pwa.svg)
+![PWA Logo](./img/pwa.svg =250x)
 - our new Progressive Web App is now available for all customers
 - all mail templates now contain the links to our Progressive Web App
 - MOBIKO now supports Spain and Portugal as target countries with individual taxation
