@@ -2,11 +2,12 @@
 ## Features
 ### General
 ![PWA Logo](./img/pwa.png)
+
 - our new Progressive Web App is now available for all customers
 - all mail templates now contain the links to our Progressive Web App
 - MOBIKO now supports Spain and Portugal as target countries with individual taxation
 
-### Externe Benefits:
+### External Benefits:
 - "Fuel Card" was added as external benefit type
 
 ### Progressive Web App (PWA) vs. Native App

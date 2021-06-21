@@ -2,6 +2,7 @@
 ## Features
 ### Allgemein
 ![PWA Logo](./img/pwa.png)
+
 - Unsere neue Progressive Web App ist jetzt für alle Kunden verfügbar
 - Alle Mailtemplates enthalten nun die Links auf unsere Progressive Web App
 - MOBIKO unterstützt nun auch Spanien und Portugal als Zielländer mit Individualversteuerung
