@@ -1,12 +1,6 @@
 # 2021.6
 ## Features
 ### General
- _______          __     
-|  __ \ \        / /\    
-| |__) \ \  /\  / /  \   
-|  ___/ \ \/  \/ / /\ \  
-| |      \  /\  / ____ \ 
-|_|       \/  \/_/    \_\
 - our new Progressive Web App is now available for all customers
 - all mail templates now contain the links to our Progressive Web App
 - MOBIKO now supports Spain and Portugal as target countries with individual taxation
