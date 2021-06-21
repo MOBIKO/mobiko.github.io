@@ -99,6 +99,7 @@ Die Versionsnummer orientiert sich nun an dem monatlichen Release-Zyklus (z.B. 2
 ## Bugfixes
 ### Allgemein
 - die Zuverlässigkeit zeitgesteuerter Aktionen wurde erhöht
+
 ## Mobile App
 - der Upload von Bild- und PDF-Dateien funktioniert nun auch unter der aktuellsten Android-Version
 - sporadisch konnte es vorkommen, dass die Zugangsdaten während des Logins verloren gingen. Dies wurde behoben.

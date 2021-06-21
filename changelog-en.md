@@ -94,6 +94,7 @@ The version number now reflects monthly releases (e.g. 2021.5 is for May 2021)
 ## Bugfixes
 ### General
 - the reliability of time-based actions was increased
-### Mobile
+
+### Mobile App
 - the upload of pictures and PDF-files is now also compatible with the latest android version
 - the login screen sporadically lost the entered credentials on login. This was now fixed.
