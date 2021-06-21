@@ -1,3 +1,3 @@
-(🇩🇪) Die Versionsinformationen in Deutsch finden Sie [hier](./changelog-de.md).
+(🇩🇪) Die Versionsinformationen in Deutsch finden Sie [hier](./de.html).
 
-(🇺🇸 🇬🇧) The product's changelog in english is available [here](./changelog-en.md).
+(🇺🇸 🇬🇧) The product's changelog in english is available [here](./en.html).
