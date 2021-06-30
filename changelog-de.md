@@ -1,3 +1,20 @@
+# 2021.6.1
+## Features
+### Allgemein
+- ein neuer Partner deal erscheint zum 01.07.2021
+- Die Kategorien "E-Laden" und "E-Leasing" wurden hinzugefügt
+
+## Bugfixes
+### PWA
+- die Partner Links haben nun immer alle die gleiche Größe
+- die Bildvorschau ist nun im dark mode dunkel
+- die PDF-Vorschau funktioniert nun auch bei hochgeladenen PDFs
+- der "benutzte" Budgetbetrag steigt nun nicht mehr über das eigentliche Budget
+- der Status "geprüft" wird nun in der PWA visualisiert
+- alle Deals schreiben MOBIKO nun groß
+### Web
+- der Status "abgerechnet" wird nun in der Webansicht visualisiert
+
 # 2021.6
 ## Features
 ### Allgemein
