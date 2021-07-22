@@ -1,3 +1,27 @@
+# 2021.7.0
+## Features
+### Allgemein
+- die Logos in der Partnersektion sind nun immer rechteckig mit abgerundeten Ecken
+- die Partner-Deals können nun eine beschreibende Kategorie (z.B. Carsharing etc.) erhalten
+- die Partner-Sektion weist nun darauf hin, dass man je nach Arbeitgeberkonfiguration nicht alle Ausgaben einreichen kann
+### Externe Benefits
+- die Anordnung des externen Benefits in der Useradministration wurde verbessert
+- man kann nun deutlich auswählen, wenn man keinen externen Benefit gewähren möchte
+- die Informationen zu externen Benefits können nun importiert werden
+- externe Benefits können nun als **zusätzlich** und **abzüglich** konfiguriert werden
+- "Laden, pauschaler Auslagenersatz Firmenwagen" ist ein neuer, steuerrelevanter Typ für externe Benefits
+- BahnCard ist als neuer Typ hinzugekommen
+- bei Jobticket und "Laden, pauschaler Auslagenersatz Firmenwagen" kann man nun eine Lohnart hinterlegen
+- die Felder Beschreibung und Arbeitgeberkosten sind nun Pflichtfelder
+- sofern eine Lohnart hinterlegt ist, wird dieser nun im Export entsprechend ausgewiesen ausgewiesen
+- sofern "SAP" als Lohnbuchhaltungssystem konfiguriert ist, kann man nun auch die INFTY-Nummer konfigurieren
+
+## Bugfixes
+### Allgemein
+- Steuerexporte für DATEV verhalten sich nun auf Mac und Windows identisch
+### PWA
+- man kann nun auch mit Samsung-Tastaturen einen Betrag mit Dezimalstellen eingeben
+
 # 2021.6.1
 ## Features
 ### Allgemein

@@ -1,3 +1,28 @@
+# 2021.7.0
+## Features
+### General
+- logos in the partner section are now always in rectangle shape with rounded corners
+- the partner deals can now have a describing category (e.g. Carsharing etc.)
+- the partner section now tells the user, that they might not be eligible for reimbursement for some deals, but they can still use them
+### External Benefits
+- the order of the fields in the external benefit section of the user administration was enhanced
+- now you can explicitly choose, wether or not you want to grant an external benefit
+- the information for external benefits can now be imported
+- external benefits can now be configured, if they should be granted **on top of** or by **deducting** the mobility budget
+- "Laden, pauschaler Auslagenersatz Firmenwagen" is a new, tax relevant external benefit type
+- "BahnCard" is a new external benefit type
+- for "Jobticket" and "Laden, pauschaler Auslagenersatz Firmenwagen" it's now possible to add a salary type for exports
+- the fields "Description" and "Employer costs" are now mandatory
+- if a salary type is given, the export will now respect the external benefit
+- if "SAP" is configured as company export type, you can additionally provide an INFTY number
+
+## Bugfixes
+### General
+- tax exports for DATEV now behave the same for Mac and Windows
+
+### PWA
+- you can now also enter amounts with decimal places on Samsung phones
+
 # 2021.6.1
 ## Features
 ### General
