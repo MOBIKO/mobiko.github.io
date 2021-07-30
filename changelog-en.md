@@ -1,3 +1,17 @@
+# 2021.7.2
+## Features
+### PWA
+- Users are now adviced to use the default browser for onboarding (Safari for iOS, Chrome for Android)
+
+## Bugfixes
+### General
+- SAP and VEDA-Exports are now respecting the salary type again
+
+# 2021.7.1
+## Bugfixes
+### General
+- the reseller recognition does now work again
+
 # 2021.7.0
 ## Features
 ### General
