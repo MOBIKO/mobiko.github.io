@@ -1,4 +1,4 @@
-# 2021.7.2
+# 2021.8.0
 ## Features
 ### Web
 - Admins können nun einen CSV-Export von der Usertabelle inklusive gerader aktiver Filter ziehen

@@ -1,4 +1,4 @@
-# 2021.7.2
+# 2021.8.0
 ## Features
 ### Web
 - admins are now able to create a CSV-export of the user table respecting the current filter settings
