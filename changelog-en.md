@@ -1,5 +1,21 @@
 # 2021.7.2
 ## Features
+### Web
+- admins are now able to create a CSV-export of the user table respecting the current filter settings
+
+## Bugfixes
+### PWA
+- foreign country currencies are now showing up correctly
+- the budget overflow expiration date is now correct
+- the partner disclaimer is now also readable in darkmode
+- the tax information are now hidden when it was configured by the admins
+
+### Web
+- budget groups are no longer mandatory while editing users
+- it's now possible again to configure additional salary information
+
+# 2021.7.2
+## Features
 ### PWA
 - Users are now adviced to use the default browser for onboarding (Safari for iOS, Chrome for Android)
 

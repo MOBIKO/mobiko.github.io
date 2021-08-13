@@ -1,5 +1,22 @@
 # 2021.7.2
 ## Features
+### Web
+- Admins können nun einen CSV-Export von der Usertabelle inklusive gerader aktiver Filter ziehen
+
+## Bugfixes
+### PWA
+- die Fremdwährungsangaben zeigen nun die Fremdwährung statt Euro an
+- das Budgetübertrags-Ablaufdatum ist nun korrekt
+- der Partner-Disclaimer ist nun auch im Darkmode lesbar
+- die Steuerinformationen werden nun auch in der PWA ausgeblendet, wenn dies konfiguriert ist
+
+### Web
+- Budgetgruppen sind nun beim Editieren von usern kein Pflichtfeld mehr
+- man kann nun wieder die zusätzlichen Gehaltsmerkmale administrieren
+
+
+# 2021.7.2
+## Features
 ### PWA
 - Users werden nun darauf hingewiesen, den default-browser zum onboarding (Safari unter iOS, Chrome unter Android) zu verwenden
 
