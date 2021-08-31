@@ -3,7 +3,7 @@
 ### Server
 - SAGE für Spanien wurde als neuer Export-Typ hinzugefügt
 
-## Miscellaneous
+## Verschiedenes
 - alle Exporte haben ein weiteres Sicherheitsnetz durch einen weiteren Typ automatisierter Tests erhalten
 - es wurden Vorbereitungen für ein neues Authentifizierungskonzept implementiert
 
