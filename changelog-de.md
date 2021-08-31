@@ -1,3 +1,12 @@
+# 2021.9.0
+## Features
+### Server
+- SAGE für Spanien wurde als neuer Export-Typ hinzugefügt
+
+## Miscellaneous
+- alle Exporte haben ein weiteres Sicherheitsnetz durch einen weiteren Typ automatisierter Tests erhalten
+- es wurden Vorbereitungen für ein neues Authentifizierungskonzept implementiert
+
 # 2021.8.0
 ## Features
 ### Web
