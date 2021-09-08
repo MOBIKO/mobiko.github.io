@@ -1,3 +1,13 @@
+# 2021.9.1
+## Features
+### Web
+- die Einschränkung "MOBIKO-Mailadresse" wurde für Supportuser entfernt
+
+## Bugfixes
+### Exporte
+- DATEV Lohn und Gehalt-Exporte enthalten nun nur noch die Felder, die dafür bestimmt sind
+
+
 # 2021.9.0
 ## Features
 ### Server
