@@ -1,3 +1,37 @@
+# 2021.9.2
+## Features
+### Allgemein
+- es ist nun möglich, sich mit einem privaten oder geschäftlichen Microsoft-Konto anzumelden, sofern man mit der gleichen E-Mail-Adresse für MOBIKO registriert ist
+- es ist nun möglich, die Anmeldung per externer Authentifizierung (Single Sign-On, aktuell nur Microsoft) für Benutzer zu erzwingen
+- das Wording der Datenschutzerklärung wurde vereinfacht
+
+### Web
+#### Externe Benefits
+- es gibt nun eine Erläuterung zur Angabe von jährlichen Ausgaben
+
+#### Importe
+- das "Beispiel Template" heißt jetzt "Muster-Importdatei"
+- es gibt nun eine Kurzanleitung zur Bedienung der Importe
+- die Felder "Company Mobility..." wurden zur Verdeutlichung in "External Benefit..." umbenannt
+- es ist nun möglich, Rollen per Import zu vergeben
+- es ist nun möglich, die Budgetgruppe per Import anzugeben
+- es ist nun möglich, eine Einladung für neue oder User im Status "Erstellt" zu planen
+- es ist nun möglich, die Deaktivierung von Usern im Status "aktiv" zu planen
+- Spaltennamen enthalten nun Hinweise zur Benutzung (z.B. Datumsformat, x zum aktivieren etc.)
+
+#### Exporte
+- es gibt nun eine neue Version des SAGE-Exports für die Schweiz
+- es gibt nun einen neuen Export "KIDICAP für Angestellte"
+- es gibt nun einen neuen Export "KIDICAP für Beamte"
+- für SAGE Spanien ist es nun möglich, die Mandanten-Id per "Weiteres Abrechnungsmerkmal" pro User anzugeben
+
+#### User-Ansicht
+- der Status ist nun in der "Alle"-Ansicht filterbar
+- die User-Ansicht zeigt nun an, ob Single Sign-On für User erzwungen wird
+- das Feld "Nur Single Sign-On" kann nun gefiltert werden
+- es existiert nun ein Icon zum kopieren der E-Mail-Adresse in die Zwischenablage (User-Detailansicht)
+- es existiert nun ein Icon zum kopieren der Budgetklasse in die Zwischenablage (User-Detailansicht)
+
 # 2021.9.1
 ## Features
 ### Web

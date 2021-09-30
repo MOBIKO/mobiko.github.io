@@ -1,3 +1,38 @@
+# 2021.9.2
+## Features
+### General
+- it's now possible to login with a private or corporate microsoft account, as long as one is registered with the same mail address for MOBIKO
+- it's now possible to enforce the usage of external authentication (Single Sign-On, currently Microsoft) for users
+- the wording of the data privacy agreement was simplified
+
+### Web
+#### External Benefits
+- a new info-icon will now give a hint on how to insert yearly expenses
+
+#### Imports
+- the "Example Template" is now named "Example Import file"
+- there's now a short manual on how to use the imports available
+- the fields starting with "Company Mobility..." were renamed to "External Benefit..." for clarity reasons
+- it's now possible to assign roles via import
+- it's now possible to assign budget groups via import
+- it's now possible to schedule invitations for newly created users or users in status "Created"
+- it's now possible to schedule deactivations for users in status "Active"
+- the import columns now contain hints for proper usage (e.g. date format, x to enable etc.)
+
+#### Exports
+- a new variant of the SAGE-Export for switzerland is now available
+- a new export "KIDICAP for employees" arrived
+- a new export "KIDICAP for officials" arrived
+- it's now possible to assign a custom tenant id per user via "Additional Salary information"-field for SAGE Spain
+
+#### User-View
+- the status has now filters in the "All"-Tab
+- the user view now shows, if single sign-on is enforced for a user
+- the field "only single sign-on" can now be filtered
+- a new icon to copy the mail address arrived in the users detail view
+- a new icon to copy the budget class arrived in the users detail view
+
+
 # 2021.9.1
 ## Features
 ### Web
