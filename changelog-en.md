@@ -1,6 +1,7 @@
 # 2021.10.0
 ## Features
 - MOBIKO is now available for italy
+
 ## Bugfixes
 - external benefits are no longer included in tax exports, when they don't have a salary type set
 
