@@ -1,3 +1,10 @@
+# 2021.10.0
+## Features
+- MOBIKO ist jetzt auch für Italien verwendbar
+
+## Bugfixes
+- Externe Benefits werden nun nicht mehr im Steuerexport ausgewiesen, sofern sie keine Lohnart hinterlegt haben
+
 # 2021.9.2
 ## Features
 ### Allgemein
